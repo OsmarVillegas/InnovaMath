@@ -53,7 +53,17 @@ Coloca la fotografia de tu prototipo dibujado a lapiz
 
 ## Codigo
 
-[MIPROYECTO_1.zip](https://github.com/GabrielGM16/InovaMath/files/11337473/MIPROYECTO_1.zip)
+  [MIPROYECTO_1.zip](https://github.com/GabrielGM16/InovaMath/files/11337473/MIPROYECTO_1.zip)
+
+# Fritzing
+
+<picture>
+  <img alt="Imagen Fritzing 1" src="./Fritzing/IMG_1">
+</picture>
+
+<picture>
+  <img alt="Imagen Fritzing 2" src="./Fritzing/IMG_2">
+</picture>
 
 json
 

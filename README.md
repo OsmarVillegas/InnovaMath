@@ -55,7 +55,7 @@ Coloca la fotografia de tu prototipo dibujado a lapiz
 
   [MIPROYECTO_1.zip](https://github.com/GabrielGM16/InovaMath/files/11337473/MIPROYECTO_1.zip)
 
-# Fritzing
+### Fritzing
 
 <picture>
   <img alt="Imagen Fritzing 1" src="./Fritzing/IMG_1.PNG">

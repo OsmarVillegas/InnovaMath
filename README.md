@@ -58,11 +58,11 @@ Coloca la fotografia de tu prototipo dibujado a lapiz
 # Fritzing
 
 <picture>
-  <img alt="Imagen Fritzing 1" src="./Fritzing/IMG_1">
+  <img alt="Imagen Fritzing 1" src="./Fritzing/IMG_1.PNG">
 </picture>
 
 <picture>
-  <img alt="Imagen Fritzing 2" src="./Fritzing/IMG_2">
+  <img alt="Imagen Fritzing 2" src="./Fritzing/IMG_2.PNG">
 </picture>
 
 json

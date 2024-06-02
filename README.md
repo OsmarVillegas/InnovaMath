@@ -17,7 +17,7 @@ Implementar un sistema de control de riego utilizando un sensor de humedad en el
 | 1  |   MySQL  |   8.0   | SGBD |
 | 2  |ArduinoIDE|  2.0.3  |  IDE |
 | 3  |  Grafana |  9.4.7  |Dashboard|
-| 3  | Node-REd |  12.0.1  |Dashboard|
+| 3  | Node-Red |  12.0.1  |Dashboard|
 
 ## Tabla con el hardware utilizado
 | Id | Componente | Descripción | Imagen | Cantidad | Costo total |
@@ -70,7 +70,7 @@ json
 
 https://github.com/GabrielGM16/InovaMath/blob/main/flows.json
 
-garfana
+## Grafana
 
 ![WhatsApp Image 2023-04-26 at 8 27 37 PM](https://user-images.githubusercontent.com/48172198/234745292-05452899-e679-411e-b98b-e3cd1712b205.jpeg)
 

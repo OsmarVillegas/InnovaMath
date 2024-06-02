@@ -1,9 +1,9 @@
 # InovaMath
 
 ## Integrantes
--Osmar Israel Villegas Martinez 
--Mario Alberto Rangel Marquez
--Martin Gabriel Godinez Morales
+- Osmar Israel Villegas Martinez
+- Mario Alberto Rangel Marquez
+- Martin Gabriel Godinez Morales
 
 ## Objetivo general
 Diseñar y desarrollar un sistema de IoT (Internet de las cosas) que permita monitorear y controlar el ambiente de una planta en una maceta utilizando sensores y actuadores, con el objetivo de maximizar su crecimiento y desarrollo al proporcionarle las condiciones ambientales óptimas, y presentar la información en una pantalla para su fácil acceso y visualización
